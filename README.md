@@ -7,3 +7,6 @@
 
 ## Learning Goals
 My goal is to fully understand how hardware works one day. Creating an app also sounds fun to do but would be difficult.
+
+## Contact Information
+Email: [arellano.d02@mymail.sxu.edu](mailto:arellano.d02@mymail.sxu.edu)
